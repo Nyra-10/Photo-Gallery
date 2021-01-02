@@ -1,0 +1,27 @@
+img{
+    width: 1000%;
+    height: 1000px;
+}
+
+.container
+{
+    text-align: center;
+}
+
+/*Start your code from here */
+#mycarousel{
+    background-color: red;
+}
+#mycarousel img{
+height: 300px;
+margin-top:35px;
+}
+.-carousel inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 50px;
+}
+body{
+    background-color: aquamarine;
+}
